@@ -1,0 +1,12 @@
+connector:
+  name: dockerConnector
+  identifier: dockerConnector
+  description:
+  orgIdentifier: AAAAJasmeet
+  projectIdentifier: jasmeetGitSync2
+  type: DockerRegistry
+  spec:
+    dockerRegistryUrl: https://index.docker.io/v2/
+    providerType: Other
+    auth:
+      type: Anonymous
