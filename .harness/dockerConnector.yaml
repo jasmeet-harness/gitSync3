@@ -1,5 +1,5 @@
 connector:
-  name: dockerConnector
+  name: dockerConnectorUpdated
   identifier: dockerConnector
   description: This is sample description
   orgIdentifier: AAAAJasmeet
