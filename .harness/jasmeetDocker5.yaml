@@ -1,7 +1,6 @@
 connector:
-  name: jasmeetDocker5
+  name: jasmeetDocker5New
   identifier: jasmeetDocker5
-  description:
   orgIdentifier: AAAAJasmeet
   projectIdentifier: jasmeetGitSync3
   type: DockerRegistry
